@@ -2,7 +2,7 @@
   "generated_at": 1730188800,
   "packages": [
     {
-      "name": "fastfetch",
+      "pkg": "fastfetch",
       "version": "2.54.0",
       "arch": "x86_64",
       "path": "fastfetch-musl-amd64.zip"
